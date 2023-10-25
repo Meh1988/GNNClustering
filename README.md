@@ -16,14 +16,14 @@ Features
 -Comparison of reconstruction errors for various representations.
 
 Requirements
--Python 3.x
--NumPy
--scikit-learn
--Gensim
--Torch
--Torch-Geometric
--Matplotlib
--tqdm
+- Python 3.x
+- NumPy
+- scikit-learn
+- Gensim
+- Torch
+- Torch-Geometric
+- Matplotlib
+- tqdm
 
 
 
