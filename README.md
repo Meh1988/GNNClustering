@@ -6,14 +6,14 @@ A Python project that represents documents using various techniques (TF-IDF, BoW
 
 
 Features
--Document representations using:
--Term Frequency-Inverse Document Frequency (TF-IDF)
--Bag of Words (BoW)
--Doc2Vec
--Graph construction based on cosine similarity.
--Training of a Graph Neural Network (GNN) for representation.
--Visualization using t-SNE and KMeans clustering.
--Comparison of reconstruction errors for various representations.
+- Document representations using:
+- Term Frequency-Inverse Document Frequency (TF-IDF)
+- Bag of Words (BoW)
+- Doc2Vec
+- Graph construction based on cosine similarity.
+- Training of a Graph Neural Network (GNN) for representation.
+- Visualization using t-SNE and KMeans clustering.
+- Comparison of reconstruction errors for various representations.
 
 Requirements
 - Python 3.x
